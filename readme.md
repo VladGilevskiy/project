@@ -6,10 +6,10 @@ Hi, here you can see some of my work while learning python (and other necessary 
 
 Below are the questions I want to answer in my project:
 
-1. [What are the skills most in demand for the top 3 most popular data roles?](project_cv\2_skill_demand.ipynb)
-2. [How are in-demand skills trending for Data Analysts?](project_cv\3_trending_skills.ipynb)
-3. [How well do jobs and skills pay for Data Analysts?](project_cv\4_salary_analysis.ipynb)
-4. [What are the optimal skills for data analysts to learn? (High Demand AND High Paying)](project_cv\5_optimal_skills.ipynb)
+1. [What are the skills most in demand for the top 3 most popular data roles?](project_cv/2_skill_demand.ipynb)
+2. [How are in-demand skills trending for Data Analysts?](project_cv/3_trending_skills.ipynb)
+3. [How well do jobs and skills pay for Data Analysts?](project_cv/4_salary_analysis.ipynb)
+4. [What are the optimal skills for data analysts to learn? (High Demand AND High Paying)](project_cv/5_optimal_skills.ipynb)
 
 # Tools I Used
 
@@ -44,4 +44,4 @@ df['job_skills'] = df['job_skills'].apply(lambda x: ast.literal_eval(x) if pd.no
 ```
 ### **All of the project you can see in the file: 'project_cv'**
 
-(p.s. As well in the [basic_codes](project_cv\1_basic_codes.ipynb) file you can see a couple of additional basic codes (I started executing them before designing other projects, so they are not so readable))
+(p.s. As well in the [basic_codes](project_cv/1_basic_codes.ipynb) file you can see a couple of additional basic codes (I started executing them before designing other projects, so they are not so readable))
